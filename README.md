@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mertGokduman
 - 👀 I’m interested in Mobile Apps of İOS
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/mert-gökduman-aab0b214a/
 
 <!---
